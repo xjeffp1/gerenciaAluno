@@ -1,4 +1,4 @@
-export interface IFindNanyDTO {
+export interface IFindManyDTO {
     nameContains?: string;
     emailContain?: string;
     page: number;
